@@ -1,0 +1,3 @@
+db=applr
+api = http://api.applr.com
+.env
